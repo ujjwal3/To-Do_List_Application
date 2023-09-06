@@ -1,4 +1,5 @@
 from tkinter import *
+import time
 
 root = Tk()
 root.minsize(400, 200)
